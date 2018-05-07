@@ -1,0 +1,8 @@
+.contenedor{background-color: darkgrey;width:93%;height:1000px;
+margin-left: auto;margin-right: auto;/*Centrar  el div*/
+}
+header{background-color: red;height: 190px;}
+nav{background-color: aqua;}
+section{background-color: blueviolet;}
+aside{background-color: brown;}
+footer{background-color: chartreuse;}
